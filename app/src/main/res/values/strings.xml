@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Traffic Test</string>
+
+    <string name="slide_1_title">Bus tickets</string>
+    <string name="slide_1_desc">Explore aascascasdsd</string>
+
+    <string name="slide_2_title">Plante tickets</string>
+    <string name="slide_2_desc">Explore asdsd</string>
+
+    <string name="slide_3_title">Train tickets</string>
+    <string name="slide_3_desc">Explore asdsd</string>
+
+    <string name="slide_4_title">Movie tickets</string>
+    <string name="slide_4_desc">Explore asdsd</string>
+
+    <string name="my_preference">com.example.MyPref</string>
+    <string name="my_preference_key">com.example.MyPrefKey</string>
+</resources>
