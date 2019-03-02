@@ -114,7 +114,7 @@ public class Welcome extends AppCompatActivity implements View.OnClickListener {
     }
 
     private void loadHome(){
-        startActivity(new Intent(this,MainActivity.class));
+        startActivity(new Intent(this,Dashboard.class));
         finish();
     }
     private void loadNextSlide(){
